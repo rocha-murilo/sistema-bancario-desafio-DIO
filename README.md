@@ -64,13 +64,6 @@ Saque: R$ 200.00
 Saldo atual: R$ 1300.00
 ```
 
-## Sugestões de melhorias (próximos passos)
-
-* Persistir as movimentações em arquivo (JSON / CSV) para carregar o extrato entre execuções.
-* Adicionar data/hora às transações.
-* Implementar testes automatizados (pytest) para as regras: limite de saque, número de saques e formatação.
-* Criar uma versão com interface web (Flask/FastAPI) para treinar APIs REST.
-
 ## Contribuição
 
 Pull requests são bem-vindos. Se for enviar alterações, descreva claramente o que foi feito e mantenha o padrão de formatação do código.
