@@ -74,7 +74,3 @@ Saldo atual: R$ 1300.00
 ## Contribuição
 
 Pull requests são bem-vindos. Se for enviar alterações, descreva claramente o que foi feito e mantenha o padrão de formatação do código.
-
-## Licença
-
-Escolha uma licença (por exemplo: MIT). Se quiser, posso adicionar um `LICENSE` ao repositório.
